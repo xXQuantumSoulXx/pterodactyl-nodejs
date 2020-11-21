@@ -4,7 +4,7 @@
 #  Licensed under the MIT license
 #----------------------------------
 
-FROM node:lts-alpine3.12
+FROM node:14.15.1-alpine3.12
 
 MAINTAINER xXQuantumSoulXx, <me@quantumsoul.xyz>
 
