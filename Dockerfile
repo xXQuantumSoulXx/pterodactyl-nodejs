@@ -4,7 +4,7 @@
 #  Licensed under the MIT license
 #----------------------------------
 
-FROM node:14.15.1-stretch-slim
+FROM node:lts-alpine3.12
 
 MAINTAINER xXQuantumSoulXx, <me@quantumsoul.xyz>
 
